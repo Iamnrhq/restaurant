@@ -1,0 +1,12 @@
+@font-face {
+    font-family: my-font;
+    src: url(Galdeano-Regular.ttf);
+  }
+
+  * {
+    font-family: my-font;
+  }
+
+  p{
+    font-size: 19px;
+  }
